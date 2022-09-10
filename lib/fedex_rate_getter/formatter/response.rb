@@ -1,4 +1,3 @@
-require 'libxml'
 require 'active_support/core_ext/hash'
 
 module FedexRateGetter
