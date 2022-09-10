@@ -16,7 +16,7 @@ Or install it yourself as:
 
 ## Usage
 
-```
+```ruby
     require 'fedex_rate_getter'
 
 
@@ -25,7 +25,7 @@ Or install it yourself as:
 
 These are the correct structures for:
 
-```
+```json
 
     quote_params = {
         address_from: {
